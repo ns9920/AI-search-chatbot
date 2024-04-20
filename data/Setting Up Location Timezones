@@ -1,0 +1,20 @@
+Administration & Permissions
+
+Setting Up Location Timezones
+Setting Up Locations and Time Zones for Employee Records
+When setting up new employees, one of the options you have is specifying their Location - it's always good to know where in the world people are! 
+
+Each location you build into your portal has an associated time zone, determined by you. To configure these options you need to head to Setup > Configure > Categories > Locations. In this view, you can see any existing locations, as well as how many people you have in each (indicated by the number beside each location) and you have the option to "Add Location" on the top right:
+
+
+
+Once you select "Add Location" you'll see you can select the relevant country and applicable time zone: 
+
+
+
+Setting up Locations and Time Zones for your Admin Users
+Admin Users must set their own location and time zone. They do this by logging into their Admin Account and clicking on the small arrow beside their name on the top left of the screen, then heading to "Profile". Scrolling down the "Profile" page they will see the options of selecting both Country and Time Zone:
+
+
+
+Last updated on November 16, 2022

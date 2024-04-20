@@ -1,0 +1,31 @@
+Administration & Permissions
+
+Setting Employee Self Service Portal Permissions
+Now you've set up your new HRIS it's time to get everybody else involved and invite your Employees to log into their portal! But before you do that, you might want to give some thought to what you want them to be able to see and do once in there. 
+
+General Employee Self Service (ESS) Portal Setup
+From your Admin Account, you can head to Setup > Configure > ESS Portal this is where you'll see the more general setup options for the Employee Portal.
+Take a look through the list and carefully consider each option, checking the ones you'd like to enable:  
+
+
+
+Note
+The "Send Portal Notifications To" will default to the company owner, but can be changed to any Admin User.
+Important: If the person named in the "Send Portal Notifications To" area leaves the business, be sure to change the person named here.
+
+Tailoring Who Can Do What in the ESS Portal
+You can set up your ESS Portal Permissions to suit your organisation. Perhaps managers in your company can claim expenses but others can't, or maybe your contractors can't request annual leave but permanent staff can. No problem! You can stipulate exactly who has what permissions in the ESS and there are two ways of doing this. 
+
+First, if you want to tailor this for just one employee, you can head into their employee record and select "Edit Employee Details" then head into the tab named "ESS Portal". Scroll right down to the bottom of that page and toggle on the "Portal Permissions". Here you can determine what exactly you would like this person to be able to do when they log into their ESS:
+
+
+
+Alternatively, you can determine the same functionality in bulk. You can do this by heading to Setup > Tools > Advanced and selecting the option to "Set ESS Permissions in Bulk":
+
+
+
+This will allow you to filter by either Department, Location, Employment Status or Position, or to apply to All Employees:
+
+
+
+Last updated on November 21, 2022

@@ -1,0 +1,14 @@
+Administration & Permissions
+
+Adding a New Admin User
+Admin Users are other Authorized Users of your HR Partner system. An Admin User is typically a manager or supervisor who will need more access rights than an Employee to do things like: approve Time Off/Leave, assign a Checklist and manage their Employee's profile and records.
+
+To add another Administrative User to your system, go to the menu bar to the left of your screen and select Setup > Users You will then see a list of all Admin Users on your account. To the top right of the list you will see a button to "Add A New User" as shown in the screenshot below. 
+
+After following the link you will be taken to the screen below, which is where you will enter the User's full name and email address, and can link The Admin User's Account To Their Own Employee Account https://help.hrpartner.io/article/119-linking-admin-user-and-employee-accounts so that the individual can switch between their Admin User account and their Employee Self-Service Portal. 
+
+This is also where you can select which areas of HR Partner they have access to, as well as the permissions they have in each of those areas. If you need to understand more about editing the permissions of an Admin User Click Here https://help.hrpartner.io/article/176-admin-user-permissions
+
+Once you've added in the information for your new Admin User, and properly edited their Permissions, scroll down to the bottom and click the green Save button to save this information. The new Admin User will receive a welcome email that will contain a link to log into their own Admin User Portal and will include their username and the Company info to log in properly.
+
+Last updated on June 8, 2021

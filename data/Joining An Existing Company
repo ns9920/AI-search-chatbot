@@ -1,0 +1,70 @@
+Administration & Permissions
+
+Joining An Existing Company
+Once an HR Partner company has been created, it is a relatively straightforward process to get other users to join your company.  You may want other members of your HR team, or even site managers to join up and assist you with managing your employees.
+
+Method 1 - User Instigated Request
+Requesting Access
+Send any users who wish to join a company to the Signup Page https://app.hrpartner.io/user/signup
+
+Important!
+Make sure that the user you send to this screen doesn't create a new account. They instead have to click the 'Request An Invite' button to the left.
+
+When the user clicks the 'Request Invite' button, they will see the following screen.
+
+
+
+TIP: Alternatively, you can send them straight to the  Request Page https://app.hrpartner.io/user/request instead of showing them the signup page.
+
+All they have to do is to enter in the email address of the person that created the account, their name and email address and click the 'Send Request For Invitation' button.
+
+Note!
+The Administrator's email address must be the email address used by the person who created the company account. If the email address is not found, the user will be asked to try again. Please note that you will have to give your email address to the person wanting to join. We don't provide a way for the applicant to find our your email for privacy and security reasons, and to reduce spam.
+
+Notifications
+Once an applicant sends a request to join your company, you should get an email informing you of the fact.
+
+Approving An Applicant
+To approve an applicant, you need to log into HR Partner as yourself.  You will notice on the top right corner, the 'Bell' icon will have a notification next to it to show that you have a system notification.
+
+
+
+Click on the bell icon itself to open up the notification menu.
+
+
+
+Now you can see the name of the user who wishes to join your company.  Click on their name to be taken straight to the User page where you can set their permissions and access levels.
+
+
+
+When you click 'Save' on this screen, the applicant will be sent an acknowledgement email asking them to set their password for HR Partner, and they will then be able to log into your company.
+
+More details on the permission levels shown in this screen are discussed in the 'User Permissions' section.
+
+Rejecting An Applicant
+If you wish to reject an applicant from joining your HR Partner company, then you can simply ignore the application request, and nothing further will happen.
+
+You can also choose the 'Clear All Notifications' option from the 'bell' menu pulldown to delete all the incoming notifications.
+
+Caution!
+Selecting 'Clear All Notifications' will clear ALL the notifications in the menu, including some that you may not have acted on yet. Please ensure that you have acted on all notifications that are important, then you can clear the rest that you want to ignore.
+
+If you accidentally clear a notification that you wanted to approve, then there is no way to recover from that. The applicant will have to send you another request to join your company.
+
+Method 2 - Creating A New User Yourself
+If you don't want to trouble your users to have to ask you for permission to join the company, you can negate most of the above steps be manually creating a new user in HR Partner.
+
+If you click on 'Company' then 'Users', you will see a list of users who currently have access to your company.
+
+If you then click on the green 'Add A New User' button, you will be taken to the same screen as shown above - except this time you have to enter in the user's name and email address yourself as it won't be prefilled for you.
+
+Once you save the user, an email will be sent to the user email that you entered in the form, asking them to click a link to set up their password so they can log in.
+
+External Consultants
+TIP: This is a great way to invite someone like an external consultant to be able to work alongside you in your HR Partner company.  
+
+If they are already signed up with HR Partner, then make sure that you use the same email address that they used to sign up in your invitation.  If they are not signed up, then an account will be created for them automatically, and they will need to enter a password of their choosing.
+
+We created HR Partner from the ground up to allow people outside your immediate company to be able to work with you.  It also means that if you are an HR consultant who usually looks after many client companies, you can easily jump between your client companies in HR Partner once you have been invited to them.
+
+Last updated on July 21, 2020

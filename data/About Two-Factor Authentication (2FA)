@@ -1,0 +1,57 @@
+Administration & Permissions
+
+About Two-Factor Authentication (2FA)
+For companies wanting extra security, HR Partner includes optional Two Factor Authentication (also known as 2FA for short). You may be wondering what exactly *is* 2FA and why you might need it. This article will explain all, and help you make the decision as to whether you want to turn it on for your sign on within HR Partner.
+
+The option to turn on 2FA is entirely up to you. You can continue with the current method of single authentication, but we do highly recommend that you move to 2FA for added protection of your employee information. Here's more of a description on how authentication works...
+
+Single factor authentication
+This is basically how most websites operate. Single factor authentication is your everyday username + password that you have to fill in, in order to access our system.
+
+
+
+If you haven't set up Two Factor Authentication and you go to your HR Partner company URL now (i.e. Https://[Mycompany].Hrpartner.Io), and if you haven't logged in for a few days, or logged out previously, then you will be presented with our normal login screen that you will have to fill in correctly before you are granted access to access your employee information.
+
+On the whole, this works perfectly fine. Important information is kept behind a username (your email) and a password. As long as no one else knows your password, you will be safe.
+
+The problems start if someone else gets a hold of your password, or guesses your password, or finds out via some other nefarious means. Many people tend to re-use the same passwords across multiple services (which we DO NOT recommend, by the way).
+
+This means that if another service you use is hacked or compromised in some way, and someone manages to find your password on the other service, then they will be able to log in as you on all your other services where you use that password!
+
+Tip: Go ahead and enter your email address into the Have I Been Pwned? https://haveibeenpwned.com/ website and see if it has been compromised on any other service. We can pretty much guarantee that you will be amazed at the results!
+
+Two factor authentication
+Two factor authentication makes it a lot harder for anyone except you to access your account. It does pretty much what its name says - it makes you authenticate into a service using two completely different methods.
+
+The first authentication, is your standard username and password, which is fairly robust in itself. That part doesn't change.
+
+The second authentication adds another layer to the login process. After you enter your username and password, and the system checks that these are valid, then you will be asked to enter a secret 6 digit passcode as a second step before you are given full access.
+
+
+
+But how do you get that 6 digit passcode? Well, a lot of systems (such as your bank or Paypal) will send an SMS message to your phone with your 'one time use' login access code. This is OK, but nowadays, there are a lot of incidences where really motivated and unscrupulous people can gain control of your phone number by calling your phone company and impersonating you. Usually, if they have knowledge of your full name and birth date, then can convince the support agent to port your phone number to their device, and thus receive text messages on your behalf.
+
+So, here at HR Partner, we decided not to use SMS as the second method, but instead use a dedicated Authentication App on your phone to generate those 6 digit codes. There are quite a few apps out there that you can use for this including Google Authenticator https://support.google.com/accounts/answer/1066447 , Authy https://authy.com/ , or LastPass https://www.pcworld.com/article/3225913/what-is-two-factor-authentication-and-which-2fa-apps-are-best.html . This Article has a list of popular authentication apps with reviews.
+
+So after entering in your email and password, you will have to reach for your phone and open your chosen authentication app, and enter in the 6 digit code that you see on there. Only then, will you be given access to the system.
+
+This means that even if someone somehow finds out your password, they will not be able to log in unless they actually have your phone physically with them. Two-factor authentication makes it practically impossible for anyone to log in without you knowing about it. The added inconvenience of having to get a code from your phone is offset by the massive improvement to your privacy and security.
+
+And even if someone was looking over your shoulder as you were getting your code from your phone - the app changes the 6 digit code every 30 seconds, and you cannot use the same code within the 30 second window to login again!
+
+Setting up your phone and HR Partner
+So you probably remember creating your password when you first set up your HR Partner account, but now you are probably wondering how HR Partner knows which 6 digit code is valid at any time? After all, the authentication app will change this access code every 30 seconds to a seemingly random number?
+
+Well, this is because before you can start using 2FA, you will have to "pair" your app to HR Partner so that the two systems know how to talk to each other. When you pair the app to HR Partner, they will exchange an encryption code behind the scenes which tell both of them how to generate to 6 digit codes every 30 seconds. Even though the numbers seem random, they actually follow a super secret pattern that is almost impossible to reverse engineer.
+
+Please see our "How to set up 2FA in HR Partner" article for instructions on pairing your app and setting up 2FA in general.
+
+Making the choice
+We don't force you into implementing 2FA for your admin sign on to HR Partner, but instead we leave that choice to you. It is entirely up to you whether you decide that the added steps will mitigate the security risks to your data. If you have multiple admin users in your HR Partner company, then each admin user will have to make the choice whether to implement 2FA or not for their own login.  
+
+You can certainly set a corporate policy that mandates everyone doing so (and we highly encourage that), but at this point in time, we do not make it mandatory. This may change depending on the unfolding security threat landscape in the near future.
+
+Last updated on November 21, 2022
+RELATED ARTICLES
+Setting Up 2FA (Two Factor Authentication)
+https://help.hrpartner.io/article/164-setting-up-2fa

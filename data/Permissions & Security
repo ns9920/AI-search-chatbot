@@ -1,0 +1,52 @@
+Administration & Permissions
+
+Permissions & Security
+In this article we will discuss the importance of correctly creating security restrictions for other Admin User and other Employees. You can do this using our Departmental restrictions, Location restrictions and permissions settings for each Admin User.
+
+The Importance of 'Departments' and 'Locations' in HR Partner
+When you are setting up your HR Partner system, it's incredibly important to be strategic about how you will choose to create and manage both your Departments and Locations in HR Partner. These are each found in Setup > Configure > Categories.
+
+
+
+Setting up this area of HR Partner (your Departments, Positions, Locations and so forth) is most likely one of the first areas of the system where you will make changes to customize the system based on your own Organization's needs.
+
+HR Partner's security restrictions are largely based around Departments and Locations. You can restrict access for an Admin User using Departments and / or Locations (more on this below) and you can restrict things like Library Folders using Departments too. Because of this, when you are first adding and editing these categories in the HR Partner system, it's important to consider possible limitations for other Admin Users.
+
+Example #1
+For example, let's say that your Organization has only THREE major Departments: Accounting, Operations and Admin. If you decide to create Departments in HR Partner based on this structure, when you add a new Admin User, but want to restrict access based on a Department, you can, but if you grant access to the Operations Department and there are 37 Employees in that Department, this new Admin User will see all 37 Employees.
+
+This is why it may be a good idea to create more granular Departments in HR Partner. For example, instead of "Operations", perhaps create two different Departments called "Operations - Red" and "Operations - Blue". This will allow you to be more granular when granting access by Department.
+
+Example #2
+Another good example is if your Organization relies heavily on security based on the Location instead of the Department. Say your Organization has three Locations where Employees work: Australia, New Zealand and Malaysia. In general, the managers in Australia are allowed to see everything for those Employees who work in Australia, but they aren't allowed to see information for the Employees in Malaysia, and so forth. In this structure you can add Admin User security restrictions based purely on Locations. 
+
+Example #3
+A final example would be that you have three Departments (Accounting, Operations and Admin) and thee Locations (Australia, New Zealand and Malaysia) and you would like for example an Admin User to have visibility of only those employees in the Admin Department who are based in Australia.     
+
+In this case you can add admin User security restrictions for both Department and Location and those will work together to refine the list of employees accessible to that Admin User.
+
+Permissions for an Admin User
+When you decide to Add A New Admin User https://help.hrpartner.io/article/49-adding-users-other-admins to your HR Partner system, you might be wondering what types of permissions and visibility that new individual has.... Can they see Salary information for Employees? Can they edit another Admin User's profile?
+
+Luckily, there are many options for restricting and managing your fellow Admin User's permissions and security within the HR Partner system. Each new Admin User has a specific set of Permissions that can be managed on an individual basis. We have a comprehensive article that outlines how to set up and manage an Admin User's Permissions https://help.hrpartner.io/article/176-admin-user-permissions and we hope that you read through this!
+
+Departmental Security
+Under 'Department Access Allowed', you can specify one or more Departments that an Admin User can access.  If you select a single Department in this area, this means that the Admin User can ONLY see Employees (and their corresponding data) that belong to the specific, nominated Department. If no Departments are entered the Admin User will be able to view employees in ALL Departments. 
+
+
+
+Location Security
+Under 'Location Access Allowed', you can specify one or more Locations that an Admin User can access.  If you select a single Location in this area, this means that the Admin User can ONLY see Employees (and their corresponding data) that belong to the specific, nominated Location. If nothing is entered here the Admin User will be able to view employees in ALL Locations.
+
+
+
+Combining Both Departmental and Location Restrictions
+If you were to enter for example 'Administration' under 'Departmental Access Allowed' and 'Sydney Office' under 'Location Access Allowed' these filters would work together, showing the Admin User ONLY those employees located in the Sydney Office who work in the Administration Department:
+
+
+
+This is very useful and powerful feature in HR Partner, and helps protect your Employee's privacy. It is excellent for allowing, say, department managers to work with only their own Employees and not be able to see or edit any other Employee.
+
+Note: If you are an Admin User currently, but you do not see the "Configure" tab that is referenced in this article, it's very likely that your own Security Permissions are restricted so that you cannot make changes to the system. You may need to contact your Super Admin User or Company Owner on the account to release or change your restrictions to be able to make necessary changes.
+
+Last updated on February 3, 2022

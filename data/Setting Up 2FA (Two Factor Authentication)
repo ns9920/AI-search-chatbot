@@ -1,0 +1,95 @@
+Administration & Permissions
+
+Setting Up 2FA (Two Factor Authentication)
+Congratulations on taking the steps to improving the safety and security of your HR Partner data by implementing Two Factor Authentication (or 2FA) for your admin login. This article will give you step by step instructions on how to set up (and disconnect) this feature.
+
+Activating two factor authentication
+To active 2FA, you will need to go to your admin account profile, by clicking your name just under your profile picture on the top left of every screen, and choosing ' Profile'.
+
+
+
+Then, if you scroll down to nearly the bottom of your profile page, there will be a button there to set up 2-Factor Authentication. Click it.
+
+
+
+This will take you to a screen with a large QR Code on it. You will need this QR Code to pair your chosen app with HR Partner. At this point, you can pick up your phone for the next steps. We will now step you through how to pair the Authy App with HR Partner. 
+
+
+
+Pairing Authy to HR Partner
+Authy https://authy.com/ is our favorite authentication app on the phone here at HR Partner, but please feel free to use whichever authentication app you trust or are using currently. The instructions will be pretty much the same for any of the most popular authentication apps. If you don't have an authenticator app, you will need to go to the App Store / Google Play Store and download one (most are free). You will then need to enter your phone number and email address, and then receive an SMS message to verify your new authenticator account.
+
+
+
+Once you have the Authy app up and running, either click the big "+" button in the middle of the screen or the "Add Account" button in the bottom section. (If you have several accounts, you may need to scroll for this.)
+
+
+
+Now you will be asked to scan the QR Code from the service you wish to add. This is where you point your phone camera towards the screen above with the HR Partner 2FA QR Code being displayed, and press the ' Scan QR Code' button. (The app may ask for permission to access your camera.)
+
+
+
+When successfully scanned, the system should auto detect your login name, and the service name (HR Partner) and include our logo automatically. You can change the service and login name if you wish, but we recommend that you leave it 'as is' for easier identification within your app. Then, just tap ' Save' to save this information.
+
+
+
+You are now ready to continue with the next step of the implementation by entering in the current 2FA access code into HR Partner.
+
+
+
+Now we can go back to HR Partner. Click on the ' Continue' button on the screen with the QR Code on it.
+
+
+
+This is a very important step - you will need to look at the code on your authenticator app, and enter it into this screen exactly as it is shows (without any spaces), and click ' Continue' again.
+
+Note: If you do not enter in the correct code, or wait too long to enter the code (so it expires), then you will have to begin the whole pairing routine again from scratch! It will be best if you wait until a new code appears on the app, then key that in, so that you have the full 30 second window to do this again.
+
+Successful pairing
+Once you have successfully paired, then you are pretty much done! You should see the confirmation screen below.
+
+
+
+Please take note of the backup codes that are shown on this screen. These codes are made available to you in case you lose your phone, or have to log in at some point when you don't have your phone with you.
+
+Important: These codes will be only shown to you on this one occasion. There is no way to obtain them later, and there is no way that our support or development team can tell you what they are, as they will be encrypted in our system beyond our ability to recover them. Please copy and paste these into your favorite password manager or other secure storage, and treat them as securely as you would treat your passwords.
+
+It is important to remember that each of your backup passcodes can only be used ONCE. If you ever have to use them, delete them from your copied list as well so you don't try and reuse them later. If you run out of backup passcodes, you will have to deactivate, then reactivate 2FA on your HR Partner account to generate new ones.
+
+Now you should be able to log out, then back in again to see 2FA in action.
+
+Logging in with 2FA
+If you try to login to your HR Partner account again now (after logging out), you should firstly see the standard login screen.
+
+
+
+But when you click ' Login', you will see another screen pop up.
+
+
+
+This is where you go to your Authenticator App, and tap on ' HR Partner', and see the 6 digit code you need to enter.
+
+Note: Don't worry if the code on your app changes while you are entering it into HR Partner. Go ahead and finish entering the old code and click 'Login', as the system will give you a few seconds grace period.
+
+If all goes well, you should be logged into your HR Partner admin dashboard as per usual.
+
+Deactivating 2FA
+At any time, you can deactivate 2FA within HR Partner if you wish. To do so, simply re-visit your Profile screen as described at the start of this article. Then if you scroll down, you should see a 'Disable 2-factor authentication' button that you can click.
+
+
+
+Please note that when you click this button, you will have to enter in a code from your authentication app (or use one of your backup codes) to complete the process.  
+
+
+
+This is to prevent someone else who may have come across your logged in account from deactivating 2FA without your knowledge.
+
+Making 2FA Mandatory
+If your company policy is to mandate 2FA for all your admin users, you can go to Setup -> Company Info and turn on the following option, which will not let any of your admin users do anything within HR Partner unless they have set up two factor authentication first.  This will ensure that non of your staff will be non-compliant with your corporate policy.
+
+
+
+Last updated on November 21, 2022
+RELATED ARTICLES
+About Two-Factor Authentication (2FA)
+https://help.hrpartner.io/article/163-about-two-factor-authentication

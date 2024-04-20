@@ -1,0 +1,27 @@
+Administration & Permissions
+
+Linking Admin User & Employee Accounts
+Both Admin Users and Employees have the ability to log into HR Partner.
+
+Admin Users are management team members (like HR Managers or Department Managers), who have to manage and update information for Employees in the system.  Employees on the other hand, can only log into their own Employee Portal (often called the ESS Portal) and look at their own information.
+
+Sometimes, Admin Users are external HR Consultants, or Managers outside the company, but more often than not, they will be people within your organization that have both an Admin User and an Employee account with HR Partner. 
+
+This is pretty common, so we have created an easy way for you to link an existing Admin User account with an Employee account within your organization.
+
+Start by going to Setup > Users and find the Admin User profile that you would like to link. Then click on Edit and find the section towards the top marked Link To Company Employee and then select your Employee Name here.
+
+
+
+Don't forget to Save towards the bottom and the system will consider the Admin User and Employee as being linked together for future reference.
+
+Why Link These Profiles?
+Well, there are a couple of reasons for linking Admins to Employees.  Some checklist items can be allocated to an Employee's direct manager, and if the direct manager is also an Admin User in the system, then this makes their ability to clear checklists a lot easier.
+
+Also, linking the two together makes it much easier for the Admin User to jump between the HR Partner Admin Portal, and their own Employee Portal.  When linked, they will see an additional menu item under their profile in the top left corner:
+
+
+
+If they choose 'Employee Portal' on this drop down menu, a new browser window will be opened, and they will be automatically logged into their Employee Portal, allowing them to jump back and forth between the two sections of HR Partner without entering in a new username and password each time they log in!
+
+Last updated on October 2, 2020

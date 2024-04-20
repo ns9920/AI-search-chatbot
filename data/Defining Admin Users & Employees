@@ -1,0 +1,27 @@
+Administration & Permissions
+
+Defining Admin Users & Employees
+Defining Users & Employees
+You will notice that our Knowledge Base support documentation uses the language "User" and "Employee" quite a lot. What is the difference between these designations? Read on to learn more!
+
+What is a 'User'?
+A user is the Administrative User who can log into HR Partner and maintain details about ALL the employees in your company.  Users can either have supervisor privileges (i.e. no restrictions at all), or they can be restricted to only working with employees in a particular department or location.  They can even be restricted to doing only certain tasks with the employees under their control. You might have a HR Professional with full access, and then an individual from IT who can only access the data stored under "Assets" for example.
+
+What is an 'Employee'?
+Employees are the individual staff or team members that work for your organisation.  Employees can log into the Employee Self-Service Portal section of HR Partner, but will only be able to see their own information. Employees cannot look at data for another employee, or any other broad statistics about the company. Employees could be given access to an "Employee Directory" which would give them overview of their colleagues' reporting lines, roles and contact details if they have chosen to publish them.
+
+Note
+Bear in mind that an individual such as a Line Manager within a company could be both an Employee AND a User who can work on other employees. This may be necessary if a Line Manager id required to approve either Timesheets or Expenses for their team.
+
+Please also note that within HR Partner, we use the term 'Employees' broadly. These could actually be contractors, consultants or any other type of team member that you want to keep records for and can be identified as such with an "Employment Status".
+
+For the purpose of your subscription terminated Employees do not count towards your employee count. You can still access their records, but you'll need to change the filter to see them and they will not be able to login to the Employee Portal.
+
+Multi User Access
+As seen in the previous section, each HR Partner company or account can have multiple users working within it.
+
+However, you can also have a single HR Partner User working in multiple companies! This is so that HR Consultants who may act as an independent contractor to multiple companies can still use HR Partner to maintain all their client databases.
+
+We have built HR Partner from the ground up to support this sort of functionality and flexibility.
+
+Last updated on October 27, 2021
